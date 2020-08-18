@@ -106,7 +106,7 @@
 		}
 
 	body {
-		background: #f0f0f0;
+		background: #f0ece2;
 
 		// Stops initial animations until page loads.
 			&.is-preload {
@@ -558,7 +558,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
+		background: #158467;
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -582,7 +582,7 @@
 		}
 
 		&:hover {
-			background: #fd887a;
+			background: #f0a500;
 		}
 
 		&:active {
@@ -670,7 +670,7 @@
 	#header {
 		position: relative;
 		position: relative;
-		background: #fff;
+		background: #fadcac;
 		text-align: center;
 
 		> .container {
@@ -682,9 +682,9 @@
 		h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #065446;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
-			font-size: 3em;
+			font-size: 10em;
 			letter-spacing: 13px;
 
 			a {
@@ -766,13 +766,13 @@
 
 				&.active > a:before,
 				&:hover > a:before {
-					background: #ED786A;
+					background: #065446;
 					color: #fff;
 				}
 
 				&.active > a > span,
 				&:hover > a > span {
-					color: #ED786A;
+					color: #065446;
 				}
 			}
 		}
@@ -782,7 +782,7 @@
 		text-align: left;
 		border: solid 1px #e5e5e5;
 		border-radius: 4px;
-		background: #fff;
+		background: #f0ece2;
 		background: rgba(255, 255, 255, 0.965);
 		box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
 		padding: 0.75em 0 0.5em 0;
@@ -1353,9 +1353,9 @@
 				}
 
 				h1 {
-					font-size: 2em;
+					font-size: 10em;
 					letter-spacing: 8px;
-					line-height: 1.325em;
+					line-height: 4em;
 				}
 
 				p {
